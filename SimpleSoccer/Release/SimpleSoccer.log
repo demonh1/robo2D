@@ -1,0 +1,21 @@
+﻿Build started 31.05.2013 15:01:00.
+     1>Project "E:\Projects\MyProjects\Robo\1\SimpleSoccer\SimpleSoccer.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\Release\SimpleSoccer.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         SimpleSoccer.vcxproj -> E:\Projects\MyProjects\Robo\1\SimpleSoccer\.\Release\SimpleSoccer.exe
+       BscMake:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file ".\Release\SimpleSoccer.unsuccessfulbuild".
+         Touching ".\Release\SimpleSoccer.lastbuildstate".
+     1>Done Building Project "E:\Projects\MyProjects\Robo\1\SimpleSoccer\SimpleSoccer.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.28

@@ -7,7 +7,6 @@
 //  Desc:   Declarations of all the states used by a Simple Soccer
 //          goalkeeper
 //
-//  Author: Mat Buckland 2003 (fup@ai-junkie.com)
 //
 //------------------------------------------------------------------------
 #include <string>

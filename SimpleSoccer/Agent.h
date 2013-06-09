@@ -70,16 +70,12 @@ static int aNextValidId; // next valid id for update
 int _type;
  bool  m_bTag;
 
- 
-
 
 protected:
 
 // location in the environment
 Vector2D m_Position;
 Vector2D m_Scale;
-
-
 
   //the magnitude of this object's bounding radius
 double    m_BoundingRadius;

@@ -1,5 +1,5 @@
-#ifndef GOALY_H
-#define GOALY_H
+#ifndef GOALKEEPER_H
+#define GOALKEEPER_H
 //------------------------------------------------------------------------
 //
 //  Name:   GoalKeeper.h

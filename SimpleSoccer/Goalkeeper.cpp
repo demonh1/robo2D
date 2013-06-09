@@ -134,10 +134,10 @@ void GoalKeeper::Render()
     gdi->RedPen();
   
   m_vecPlayerVBTrans = WorldTransform(m_vecPlayerVB,
-	  getPosition(),
+	                              getPosition(),
                                        m_vLookAt,
                                        m_vLookAt.Perp(),
-									   getScale());
+                                       getScale());
 
   gdi->ClosedShape(m_vecPlayerVBTrans);
   
@@ -148,7 +148,7 @@ void GoalKeeper::Render()
   //draw the ID
   if (Prm.bIDs)
   {
-    gdi->TextColor(0, 170, 0);;
+    gdi->TextColor(0, 170, 0);
     gdi->TextAtPos(getPosition().x-20, getPosition().y-20, ttos(getAgentId()));
   }
 

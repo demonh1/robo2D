@@ -1,5 +1,5 @@
-#ifndef KEEPERSTATES_H
-#define KEEPERSTATES_H
+#ifndef GOALKEEPERSTATES_H
+#define GOALKEEPERSTATES_H
 //------------------------------------------------------------------------
 //
 //  Name: GoalKeeperStates.h

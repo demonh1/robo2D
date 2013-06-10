@@ -1,5 +1,5 @@
-#ifndef PARAMLOADER
-#define PARAMLOADER
+#ifndef PARAMLOADER_H
+#define PARAMLOADER_H
 #pragma warning(disable:4800)
 //------------------------------------------------------------------------
 //

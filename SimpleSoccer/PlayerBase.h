@@ -5,7 +5,7 @@
 //
 //  Name: PlayerBase.h
 //
-//  Desc: Definition of a soccer player base class. The player inherits
+//  Desc: Base class for FieldPlayer and GoalKeeper. The player inherits
 //        from the autolist class so that any player created will be 
 //        automatically added to a list that is easily accesible by any
 //        other game objects. (mainly used by the steering behaviors and

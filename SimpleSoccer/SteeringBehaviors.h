@@ -7,7 +7,6 @@
 //
 //  Desc:   class to encapsulate steering behaviors for a soccer player
 //
-//  Author: Mat Buckland 2002 (fup@ai-junkie.com)
 //
 //------------------------------------------------------------------------
 #include <vector>
@@ -21,7 +20,7 @@ class PlayerBase;
 class SoccerPitch;
 class SoccerBall;
 class CWall;
-class CObstacle;
+
 
 
 //---------------------------- class details -----------------------------

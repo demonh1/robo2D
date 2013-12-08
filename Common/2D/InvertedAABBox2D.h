@@ -7,7 +7,7 @@
 //  Author: Mat Buckland (www.ai-junkie.com)
 //
 //  Desc:   v simple inverted (y increases down screen) axis aligned bounding
-//          box class
+//          box class 
 //-----------------------------------------------------------------------------
 
 #include "2d/Vector2D.h"
